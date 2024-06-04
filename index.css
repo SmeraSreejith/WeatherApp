@@ -1,0 +1,25 @@
+*{
+    font-family: "Alkatra", system-ui;
+    overflow-x: hidden; 
+    overflow-y: hidden;
+   
+}
+html{
+    height: 100%;
+}
+
+body{
+   background-image:url('https://cdn.wallpapersafari.com/34/10/vB6eCf.gif');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.container input{
+    margin-left: 35%;
+    margin-top: 20px;
+}
+.container button{
+    margin-top:20px ;
+    width: 80px;
+    height: 40px;
+    margin-left:10px;
+}
